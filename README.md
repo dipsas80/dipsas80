@@ -1,2 +1,5 @@
 ## @dipsas80
-https://dipsas80.itch.io/
+
+portfolio page:
+https://dipsas80.github.io/index.html
+
